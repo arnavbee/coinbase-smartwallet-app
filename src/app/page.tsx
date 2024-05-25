@@ -54,6 +54,7 @@ export default function Home() {
               <MediaRenderer
               client={client}
               src={nft.metadata.image}
+              />
             )}
             </>
           )}
